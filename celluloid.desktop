@@ -1,0 +1,14 @@
+[Desktop Entry]
+Version=1.5
+Type=Application
+Name=Celluloid
+GenericName=Media Player
+Comment=Multimedia player based on mpv
+Exec=AppRun %U
+Icon=celluloid
+Terminal=false
+StartupNotify=true
+Categories=AudioVideo;Video;Player;
+MimeType=video/mp4;video/x-matroska;video/webm;video/x-msvideo;audio/mpeg;audio/flac;audio/x-flac;audio/ogg;audio/x-wav;
+Keywords=Video;Movie;Media;Player;mpv;
+StartupWMClass=io.github.celluloid_player.Celluloid
