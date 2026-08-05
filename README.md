@@ -1,6 +1,6 @@
 Celluloid AppImage VA-API Ultra Lightweight Edition
 
-<p align="center"> <img src="images/logo.svg" alt="Celluloid AppImage Logo" width="180"> </p>
+<p align="center"> <img src="images/logo.svg" alt="Celluloid AppImage Logo" width="320"> </p>
 
 <p align="center"> A truly portable Celluloid AppImage with VA-API hardware video acceleration.<br> Lightweight, optimized and designed for modern Linux systems. </p>
 
