@@ -17,7 +17,7 @@ This project provides an ultra lightweight AppImage of Celluloid, featuring VA-A
 
 Unlike the original application, this build has been modified to work correctly as a portable AppImage without relying on fixed system installation paths.
 
-* **Approximate AppImage size:** ~1 MiB
+* **Approximate AppImage size:** ~2.1 MiB
 
 ---
 
